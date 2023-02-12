@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bitbucket repos\\az-204\\Az204-Github\\sampleweb\\sampleweb\\sampleweb.csproj",
+      "projectUniqueName": "E:\\Bitbucket repos\\az-204\\Az204-Github\\sampleweb\\sampleweb.csproj",
       "projectName": "sampleweb",
-      "projectPath": "E:\\Bitbucket repos\\az-204\\Az204-Github\\sampleweb\\sampleweb\\sampleweb.csproj",
+      "projectPath": "E:\\Bitbucket repos\\az-204\\Az204-Github\\sampleweb\\sampleweb.csproj",
       "packagesPath": "C:\\Users\\Ljourn Llagas\\.nuget\\packages\\",
-      "outputPath": "E:\\Bitbucket repos\\az-204\\Az204-Github\\sampleweb\\sampleweb\\obj\\",
+      "outputPath": "E:\\Bitbucket repos\\az-204\\Az204-Github\\sampleweb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
