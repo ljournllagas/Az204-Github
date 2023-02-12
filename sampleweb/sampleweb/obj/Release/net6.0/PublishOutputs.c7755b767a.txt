@@ -1,0 +1,7 @@
+E:\Bitbucket repos\az-204\sampleweb\sampleweb\obj\Release\net6.0\PubTmp\Out\sampleweb.exe
+E:\Bitbucket repos\az-204\sampleweb\sampleweb\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Bitbucket repos\az-204\sampleweb\sampleweb\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Bitbucket repos\az-204\sampleweb\sampleweb\obj\Release\net6.0\PubTmp\Out\sampleweb.dll
+E:\Bitbucket repos\az-204\sampleweb\sampleweb\obj\Release\net6.0\PubTmp\Out\sampleweb.deps.json
+E:\Bitbucket repos\az-204\sampleweb\sampleweb\obj\Release\net6.0\PubTmp\Out\sampleweb.runtimeconfig.json
+E:\Bitbucket repos\az-204\sampleweb\sampleweb\obj\Release\net6.0\PubTmp\Out\sampleweb.pdb
